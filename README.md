@@ -21,12 +21,6 @@
 
 
 <div align="center">
-
-  <!-- ORCID Rozeti -->
-  <a href="https://orcid.org/YOUR_ORCID_ID">
-    <img src="https://img.shields.io/badge/ORCID-0009--0005--3608--5098-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-  
   <!-- Google Scholar Rozeti -->
   <a href="SCHOLAR_PROFIL_LINKINIZ">
     <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-PROFIL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
