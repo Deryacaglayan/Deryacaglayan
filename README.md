@@ -18,6 +18,38 @@
   <h3>Türkçe açık veri setleri + Zenodo DOI</h3>
 
 </div>
+
+
+<div align="center">
+
+  <!-- ORCID Rozeti -->
+  <a href="https://orcid.org/YOUR_ORCID_ID">
+    <img src="https://img.shields.io/badge/ORCID-0009--0005--3608--5098-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  
+  <!-- Google Scholar Rozeti -->
+  <a href="SCHOLAR_PROFIL_LINKINIZ">
+    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-PROFIL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
+
+  <!-- Web Sitesi Rozeti -->
+  <a href="https://siteniz.com">
+    <img src="https://img.shields.io/badge/SITENIZ.COM-WEB-333333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Site" />
+  </a>
+
+  <br>
+
+  <!-- E-Posta Rozeti -->
+  <a href="mailto:eposta@adresiniz.com">
+    <img src="https://img.shields.io/badge/E--POSTA-eposta@adresiniz.com-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Posta" />
+  </a>
+
+  <!-- Profil Ziyaretçi Sayacı (Visitor Counter) -->
+  <img src="https://komarev.com/ghpvc/?username=GITHUB_KULLANICI_ADINIZ&label=PROFIL+GÖRÜNTÜLENME&color=334155&style=for-the-badge" alt="Profil Görüntülenme Sayısı" />
+
+</div>
+
+
 ## Merhaba, ben Derya Çağlayan
 Bayburt Üniversitesi Bilgisayar Programcılığı öğrencisiyim.
 - İlgi alanlarım: C#, Windows Forms, web programlama
