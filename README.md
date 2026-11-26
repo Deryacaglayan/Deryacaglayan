@@ -6,44 +6,33 @@
 ![GitHub](https://img.shields.io/badge/GitHub-24292F)
 
 
+
+# Derya Çağlayan
+
+### 👨‍💻 Hakkımda · *About*
+
+Merhaba! Ben **Derya Çağlayan**, Bilgisayar Programcılığı öğrencisiyim.
+
+Yazılım dünyasına yeni adımlar atıyor, kendimi **Web Geliştirme** ve **Masaüstü Uygulamaları** alanlarında geliştirmeye çalışıyorum.
+
+- 🎓 **Eğitim:** Bilgisayar Programcılığı
+- 💻 **Şu An Ne Öğreniyorum:** C#, Windows Forms, HTML/CSS, JavaScript
+- 🎯 **Hedefim:** Temelleri sağlamlaştırıp dinamik projeler geliştirmek
+
+---
+
+### 🛠️ Teknolojiler
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 <div align="center">
-
-  <!-- Banner Resmi -->
-  <img src="BANNER_RESMINIZIN_URL_LINKI" alt="Banner" width="100%" />
-
-  <!-- Ana Başlık ve Alt Başlık -->
-  <h1>Adınız Soyadınız</h1>
-  <p><b>Data Mining · Machine Learning · Open Datasets</b></p>
-  
-  <h3>Türkçe açık veri setleri + Zenodo DOI</h3>
-
+  <!-- Çalışan Ziyaretçi Sayacı -->
+  <img src="https://komarev.com/ghpvc/?username=Deryacaglayan&label=PROFIL+GORUNTULENME&color=007ecc&style=for-the-badge" alt="Profil Görüntülenme Sayısı" />
 </div>
-
-
-<div align="center">
-  <!-- Google Scholar Rozeti -->
-  <a href="SCHOLAR_PROFIL_LINKINIZ">
-    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-PROFIL-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
-  </a>
-
-  <!-- Web Sitesi Rozeti -->
-  <a href="https://siteniz.com">
-    <img src="https://img.shields.io/badge/SITENIZ.COM-WEB-333333?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Site" />
-  </a>
-
-  <br>
-
-  <!-- E-Posta Rozeti -->
-  <a href="mailto:eposta@adresiniz.com">
-    <img src="https://img.shields.io/badge/E--POSTA-eposta@adresiniz.com-d93025?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Posta" />
-  </a>
-
-  <!-- Profil Ziyaretçi Sayacı (Visitor Counter) -->
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_KULLANICI_ADINIZ&label=PROFIL+GÖRÜNTÜLENME&color=334155&style=for-the-badge" alt="Profil Görüntülenme Sayısı" />
-
-</div>
-
-
 ## Merhaba, ben Derya Çağlayan
 Bayburt Üniversitesi Bilgisayar Programcılığı öğrencisiyim.
 - İlgi alanlarım: C#, Windows Forms, web programlama
